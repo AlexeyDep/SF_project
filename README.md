@@ -3,7 +3,7 @@
 ## Оглавление  
 [1. Игра "Угадай число"(компьютер загадывает, человек угадывавет)](https://github.com/AlexeyDep/SF_project_game_guess_the_number/blob/master/game.py)  
 [2. Игра "Угадай число"(компьютер-компьютер за определенное количество попыток)](https://github.com/AlexeyDep/SF_project_game_guess_the_number/blob/master/game_v2.py)  
-[3. Краткая информация о данных](.README.md#Краткая-информация-о-данных)  
+[3. Алгоритм угадывания с помощью бинарного поиска](https://github.com/AlexeyDep/SF_project_game_guess_the_number/blob/master/guessing_using_binary_search.py)  
 [4. Этапы работы над проектом](.README.md#Этапы-работы-над-проектом)  
 [5. Результат](.README.md#Результат)    
 [6. Выводы](.README.md#Выводы) 
